@@ -1,7 +1,17 @@
-
-
-
-[{"destination":"Jaapan/Tokyo","price":"300 eurot","airline":",Ryan Air","leaveDate":"Väljumine: 04.04.2019"}]
+[
+  {
+    "destination": "Jaapan/Tokyo",
+    "price": "300 eurot",
+    "airline": ",Ryan Air",
+    "leaveDate": "Väljumine: 04.04.2019"
+  },
+  {
+    "destination": "Saksamaa/Berliin",
+    "price": "199 eurot",
+    "airline": "Lufthansa",
+    "leaveDate": "Väljumine: 06.04.2019"
+  }
+]
 
 
 
