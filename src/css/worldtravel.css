@@ -1,0 +1,49 @@
+.card-header {
+  border-radius: 20px;
+  background: #F0F8FF; }
+
+.card-footer p {
+  color: red; }
+
+.card-footer a {
+  border-radius: 20px; }
+
+.card-body {
+  font-family: sans-serif; }
+
+.row {
+  border-radius: 20px; }
+
+.row a {
+  color: green; }
+
+.container__userInfo p {
+  color: green;
+  font-weight: bold;
+  margin: 0 auto; }
+.container__changePass div {
+  margin: 0 auto; }
+  .container__changePass div p {
+    display: inline-block; }
+.container__changePass h5, .container__changePass button {
+  margin: 0 auto; }
+.container__offers .row {
+  display: flex;
+  justify-content: center; }
+  .container__offers .row .col {
+    float: none;
+    display: inline-block; }
+.container__offers h5 {
+  text-align: center; }
+.container__tickets .row {
+  display: flex;
+  justify-content: center; }
+  .container__tickets .row h3, .container__tickets .row h5 {
+    text-align: center; }
+
+.container-fluid__bosses h6, .container-fluid__workers h6 {
+  color: green; }
+.container-fluid__contacts h5 {
+  color: blue; }
+
+/*# sourceMappingURL=worldtravel.css.map */

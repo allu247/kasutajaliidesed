@@ -1,0 +1,89 @@
+@import "card";  
+
+
+.row  { 
+	border-radius: 20px; 
+
+} 
+
+.row { 
+	a {  
+		color: green;
+	}
+}
+
+
+
+.container { 
+
+	&__userInfo { 
+
+		p {
+
+		color: green; 
+		font-weight: bold; 
+		margin: 0 auto;
+	}	
+	}
+
+	&__changePass{ 
+	
+	div {
+		margin: 0 auto; 
+		p { 
+			display: inline-block;
+		}
+	
+	} 
+	h5, button { 
+		margin: 0 auto;
+	} 
+} 
+
+&__offers { 
+	.row { 
+		display: flex; 
+		justify-content: center;  
+		.col { 
+			float: none;
+    		display: inline-block; 
+		} 
+
+	} 
+	h5 { 
+		text-align: center;
+	} 
+
+} 
+&__tickets { 
+	.row {  
+ 		display: flex; 
+		justify-content: center; 
+ 		h3, h5 { 
+ 		text-align: center;
+ 	}
+ 	}
+}
+
+	
+} 
+  
+
+.container-fluid { 
+
+	&__bosses, &__workers{ 
+		h6 { 
+		color: green;
+	}   
+	} 
+
+	&__contacts { 
+		h5 { 
+		color: blue;
+	}
+	} 
+	
+}
+
+ 
+
